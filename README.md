@@ -1,3 +1,4 @@
+#Domain-Generalization-in-Natural-Language-Inference-Across-Genres-Project
 📌 Abstract
 
 This project investigates domain generalization in Natural Language Inference (NLI), focusing on how models perform when exposed to unseen text genres.
